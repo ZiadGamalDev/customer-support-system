@@ -6,23 +6,28 @@ A large-scale, real-time **Customer Support System** integrated with a simple **
 
 ---
 
-## 📦 Overview
+## 📽️ LinkedIn Showcase
 
-This system connects customers with support agents in real time, manages chat assignments, agent load balancing, ticket tracking, and provides full control via admin dashboards.
+🎬 Watch the full walkthrough of the live system here:  
+🔗 [LinkedIn Post (Video Demo)](https://www.linkedin.com/posts/ziad-gamal_nodejs-socketio-mongodb-activity-7334142892787085313-T0eT)
 
-It’s plug-and-play for any e-commerce system.
+---
 
-<!-- ---
+## 🌐 Live Deployments
 
-## 🚀 Live Demo (Coming Soon)
-We’ll provide live hosted links after deployment! -->
+| App | Link |
+|-----|------|
+| **Agent Dashboard** | [customer-support-agent-react](https://customer-support-agent-react.vercel.app/) |
+| **Admin Dashboard** | [customer-support-admin-angular](https://customer-support-admin-angular.vercel.app/) |
+| **E-Commerce Store** | [ecommerce-react](https://ecommerce-react-two-pi.vercel.app/) |
+| **E-Commerce Admin Panel** | [ecommerce-admin-react](https://ecommerce-admin-react.vercel.app/) |
 
 ---
 
 ## 🧩 System Modules (7 Repos)
 
-| App | Description | Link |
-|-----|-------------|------|
+| App | Description | GitHub |
+|-----|-------------|--------|
 | **Customer Support API** | Backend logic: authentication, real-time socket handling, agent/chat tracking, auto-reassigning | [customer-support-node](https://github.com/ZiadGamalDev/customer-support-node) |
 | **Customer Chat App** | Angular app embedded in e-commerce site. Customers start live chat from frontend | [ecommerce-chat-angular](https://github.com/ZiadGamalDev/ecommerce-chat-angular) |
 | **Agent Dashboard** | React dashboard where support agents handle live chats, statuses, and reassign tickets | [customer-support-agent-react](https://github.com/ZiadGamalDev/customer-support-agent-react) |
@@ -63,33 +68,27 @@ We’ll provide live hosted links after deployment! -->
 | Styling | Bootstrap, SCSS |
 | Deployment | Railway (API), Vercel (Web) |
 
-<!-- ---
-
-## 📸 Screenshots
-
-Coming soon after deployment 🔥 -->
-
 ---
 
 ## 🤝 Contributors
 
 We were a team of 5 developers:
 
-- **Ziad Gamal**
-- **Ahmed Mostafa**
-- **Sara Khaled**
-- **Sondos Omar**
-- **Ahmed Farag**
+- [Ziad Gamal](https://github.com/ZiadGamalDev)
+- [Ahmed Mostafa](https://github.com/3b3zeem)
+- [Sara Khaled](https://github.com/sarah5aled152)
+- [Sondos Omar](https://github.com/sondosomarr)
+- [Ahmed Farag](https://github.com/iahmedfarag)
 
 Repo contributions are distributed across our GitHub profiles, with main development logic by **Ziad Gamal**.
 
 ---
 
-## 🏁 Status
+## ✅ Project Status
 
-- ✅ Fully implemented & tested locally
-- 🚧 Preparing final deployment on Railway & Vercel
-- 📦 Project submitted to ITI – April 2025
+- ✅ Fully deployed and tested
+- 🛠️ Used as a real-world graduation project
+- 📦 Open for learning, forking, or extending
 
 ---
 
