@@ -24,6 +24,24 @@ A large-scale, real-time **Customer Support System** integrated with a simple **
 
 ---
 
+## 🔑 Test Users
+
+> **Note**: Password for all users is `123456zZ`
+
+### Customer Support Platform
+| Email | Role | Application |
+|-------|------|-------------|
+| ziad.gamal.tech@gmail.com | Admin | [Customer Support Admin](https://customer-support-admin-angular.vercel.app/) |
+| sarakhaled@example.com | Agent | [Customer Support Agent](https://customer-support-agent-react.vercel.app/) |
+
+### E-commerce Platform
+| Email | Role | Application |
+|-------|------|-------------|
+| ahmedmostafa@example.com | Customer | [E-commerce Store](https://ecommerce-react-two-pi.vercel.app/) |
+| sondosomar@example.com | Admin | [E-commerce Admin](https://ecommerce-admin-react.vercel.app/) |
+
+---
+
 ## 🧩 System Modules (7 Repos)
 
 | App | Description | GitHub |
